@@ -19,7 +19,7 @@ class Form {
 
 
     /**
-	*
+	* Constructor
 	*/
     public function __construct($postOrGet) {
 
